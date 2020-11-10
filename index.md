@@ -13,7 +13,7 @@ Meetings this quarter (Fall 2020) are at 4 pm on the following dates
   * <a href="Gaussian_process_on_non_Euclidean_Domain.pdf">Slides</a>
   
 - 11/9 (Richard Guo and Samson Koelle) Instrumental Variables
-  * Richard will present a review of instrumental variables from a causal perspective
+  * Richard will present a review of instrumental variables from a causal perspective <a href="slides-IV.pdf">Slides</a>
   * Sam will then present some connections to dimension reduction and unsupervised learning
  
 - 11/23 (Yikun Zhang) <a href="https://arxiv.org/abs/2010.13523">Directional Mean Shift</a>
