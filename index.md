@@ -17,5 +17,6 @@ Meetings this quarter (Fall 2020) are at 4 pm on the following dates
   * Sam will then present some connections to dimension reduction and unsupervised learning
  
 - 11/23 (Yikun Zhang) <a href="https://arxiv.org/abs/2010.13523">Directional Mean Shift</a>
+* <a href="DirMS_Slides.pdf">Slides</a>
 
 - 12/7 (Daniel Ting) <a href="https://arxiv.org/abs/2007.03315">Manifold deflation</a>
