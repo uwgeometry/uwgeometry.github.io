@@ -23,6 +23,6 @@ Meetings this quarter (Fall 2020) are at 4 pm on the following dates
 
 - 2/1 (Diego Espinoza) <a href="20210201_UW.pdf">Slides</a> Single Cell RNA-sequencing and Manifold Learning
 
-- 2/22 (Jerry Wei) <a href="https://arxiv.org/abs/2007.03315"> Skeleton Clustering
+- 2/22 (Jerry Wei)  Skeleton Clustering
 
 - 3/15 (Zhenman Yuan)  <a href="Structure_Adaptive_Manifold_estimation_presentation.pdf">Slides Structure Adaptive Manifold Estimation
