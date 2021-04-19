@@ -21,8 +21,8 @@ Meetings this quarter (Fall 2020) are at 4 pm on the following dates
 
 - 12/7 (Daniel Ting) <a href="https://arxiv.org/abs/2007.03315">Manifold deflation</a>
 
-- 12/7 (Diego Espinoza) <a href="20210201_UW.pdf">Slides</a> Single Cell RNA-sequencing and Manifold Learning</a>
+- 2/1 (Diego Espinoza) <a href="20210201_UW.pdf">Slides</a> Single Cell RNA-sequencing and Manifold Learning</a>
 
-- 12/7 (Jerry Wei) <a href="https://arxiv.org/abs/2007.03315"> Skeleton Clustering</a>
+- 2/22 (Jerry Wei) <a href="https://arxiv.org/abs/2007.03315"> Skeleton Clustering</a>
 
-- 12/7 (Zhenman Yuan)  <a href="Structure_Adaptive_Manifold_estimation_presentation.pdf">Slides</a> Structure Adaptive Manifold Estimation</a>
+- 3/15 (Zhenman Yuan)  <a href="Structure_Adaptive_Manifold_estimation_presentation.pdf">Slides</a> Structure Adaptive Manifold Estimation</a>
