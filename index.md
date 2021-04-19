@@ -25,4 +25,4 @@ Meetings this quarter (Fall 2020) are at 4 pm on the following dates
 
 - 2/22 (Jerry Wei) <a href="https://arxiv.org/abs/2007.03315"> Skeleton Clustering
 
-- 3/15 (Zhenman Yuan)  <a href="Structure_Adaptive_Manifold_estimation_presentation.pdf">Slides Structure Adaptive Manifold Estimation</a>
+- 3/15 (Zhenman Yuan)  <a href="Structure_Adaptive_Manifold_estimation_presentation.pdf">Slides Structure Adaptive Manifold Estimation
