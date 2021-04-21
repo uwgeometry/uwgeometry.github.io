@@ -2,7 +2,7 @@
 
 ### Info
 
-<a href="publications.md">Publications</a>
+<a href="publications">Publications</a>
 
 ### Meetings
 
