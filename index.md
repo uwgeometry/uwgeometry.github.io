@@ -1,9 +1,5 @@
 ## Welcome to the University of Washington Geometric Data Analysis reading group website
 
-### Info
-
-<a href="publications">Publications</a>
-
 ### Meetings
 
 - 10/12 (Marina Meila) A first look at the mathematics and statistics of gerrymandering.
