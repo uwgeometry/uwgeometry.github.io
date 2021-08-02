@@ -1,3 +1,40 @@
-theme: jekyll-theme-minimal
-title: [UWGeometry]
-description: [The University of Washington Geometric Data Analysis Working Group Website]
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+port: 4000
+markdown:  kramdown
+#theme: minima
+#permalink: /: none
+baseurl: 
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag,jekyll/scholar]
+
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		   "Portfolio Jekyll Theme"
+description: "Powered by Jekyll and GitHub Pages"
+
+scholar:
+
+  last_name: Einstein
+  first_name: [Albert, A.]
+  style: apa
+  locale: en
+  sort_by: year
+  order: descending
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+  bibtex_skip_fields: [abstract]
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+  bibtex_filters: 
+    - latex
+    - markdown
+  query: "@*"
