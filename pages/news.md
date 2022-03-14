@@ -1,7 +1,3 @@
-### News
+### Announcements
 
-- 8/21 - Sheridan Grant Thesis Defense
-
-- 7/21 - Yu-Chia Chen Thesis Defense
-
-- 7/21 - Marina Meila "Manifold Coordinates with Physical Meaning" @SIAM21
+- Spring 2022 meeting in preparation. Please contact organizers if you want to suggest papers for presentation. Also contact the organizers if you want to volunteer to present (can get 1 independence study credit).
